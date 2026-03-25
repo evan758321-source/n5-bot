@@ -4,7 +4,7 @@ from discord import app_commands
 import aiohttp, os
 
 BOT_TOKEN     = os.environ['BOT_TOKEN']
-SERVER_URL    = 'https://n5auth.onrender.com'
+SERVER_URL    = 'https://htrhtrhrtyhrthr6t.onrender.com'
 GUILD_ID      = 1476431914851369044
 REQUIRED_ROLE = 1486212366017237063
 
